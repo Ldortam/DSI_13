@@ -1,0 +1,11 @@
+{
+    "entryPoints": [
+        "./src/ejercicio/Funko.ts",
+        "./src/ejercicio/Files.ts",
+        "./src/ejercicio/types.ts",
+        "./src/ejercicio/servidor.ts",
+        "./src/mod/servidor.ts",
+    ],
+    "out": "./docs"
+    
+}
